@@ -1,3 +1,4 @@
 #python program 
 a=('to print python')
-  print(a)
+b=('to print b')
+  print(a,b)
